@@ -16,4 +16,6 @@ def add(x,y):
 >>>>>>> f64d35d179d6250d12e4d218bc14355783e07c0d
 def divide(x,y):
         return x/y
+    print (x,y)
+
 
